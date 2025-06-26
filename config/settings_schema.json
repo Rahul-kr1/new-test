@@ -1,6 +1,13 @@
 [
   {
     "name": "Theme settings",
-    "settings": []
+    "settings": [
+      {
+        "type": "text",
+        "id": "dummy_setting",
+        "label": "Dummy Setting",
+        "default": "Hello Shopify"
+      }
+    ]
   }
 ]
